@@ -1,0 +1,4 @@
+<meta="utf-8">
+<script>
+	alert("This is new programm");
+</script>

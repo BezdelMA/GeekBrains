@@ -1,4 +1,5 @@
 <meta="utf-8">
 <script>
-	alert("This is new programm");
+	var name = "Mikhail";
+	alert("This is new programm. She's made by " + name);
 </script>
